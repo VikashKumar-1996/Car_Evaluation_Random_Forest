@@ -41,5 +41,5 @@ Evaluate best model performance
 Performance is measured using the macro F1-score .
 
 Model	F1 Score (Macro)
-Baseline Random Forest	~0.92 ✅
-Tuned RF (GridSearchCV)	~0.96 🚀
+Baseline Random Forest	~0.83
+Tuned RF (GridSearchCV)	~0.87
